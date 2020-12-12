@@ -11,3 +11,8 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+Questions:
+
+* What’s your opinion on ethics in terms of machines being too intelligent and exceeds that of a human being. The fear of being taken over by your own creation.
+* Do you think it’s better that each machine be trained on just a specialty to prevent it from defying ethical standards?
